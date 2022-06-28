@@ -1,2 +1,5 @@
-# LGMVIP-Web
-LetsGrowMore Web development Internship
+**Simple Projects :**
+
+*  Calculator 
+
+*  To-Do List 
